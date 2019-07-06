@@ -1,6 +1,6 @@
-### THE BLOCKLIST
-# Personal Judgement
-# Updated:2019/07/06
+# THE BLOCKLIST
+### Personal Judgement
+### Updated:2019/07/06
 
 日期 | 实体名称 | 位置 | 理由
 ------------ | ------------- | ------------- | -------------
