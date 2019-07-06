@@ -19,5 +19,5 @@
 2019/07/06 | 新辣道鱼火锅 | 万象城 | 性价比低 | 全部门店 | 已倒闭
 2019/07/06 | 德庄火锅 | 万象城 | 性价比低 | 全部门店 | 已倒闭
 
-*Note: None*
+**Note: None**
 #### [苏ICP备16023973号-2](http://beian.miit.gov.cn)  QIANGGE NETWORK HOLDING GROUPS ALL RIGHTS RESERVED
