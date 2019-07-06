@@ -26,5 +26,6 @@
 2019/07/06 | 大城小调 | 博大 | 性价比低 | 全部门店 |
 2019/07/06 | 绝味鸭脖 | 博大 | 私人恩怨 | 此门店 |
 2019/07/06 | 阿炳汤包 | 食尚美食广场 | 食品安全问题 | 全部门店 |
+2019/07/06 | 渝派富豪 | 湖滨商业街 | 其他 | 全部门店 |
 **Note: None**
 #### [苏ICP备16023973号-2](http://beian.miit.gov.cn)  QIANGGE NETWORK HOLDING GROUPS ALL RIGHTS RESERVED
