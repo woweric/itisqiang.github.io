@@ -1,4 +1,3 @@
-# THE BLOCKLIST
 #### 仅供参考, 如有异议请联系 mailto:king@qiangeo.com
 #### Updated: 2019/07/06
 
