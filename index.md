@@ -1,3 +1,5 @@
+## THE BLOCKLIST OF ERIC ZHU
+# 声明: 以下所有内容仅供参考, 仅代表个人观点或他人观点. 
 ## Welcome to GitHub Pages of eric
 
 You can use the [editor on GitHub](https://github.com/jnuqiang/itisqiang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
