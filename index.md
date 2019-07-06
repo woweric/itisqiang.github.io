@@ -1,5 +1,6 @@
 ## THE BLOCKLIST OF ERIC ZHU
 ## Welcome to GitHub Pages of eric
+测试
 test
 test
 You can use the [editor on GitHub](https://github.com/jnuqiang/itisqiang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
