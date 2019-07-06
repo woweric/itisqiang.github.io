@@ -10,11 +10,9 @@
 
 
 
-## THE BLOCKLIST OF ERIC ZHU
-## Welcome to GitHub Pages of eric
-测试
-test
-test
+Ignore the following text 
+## Welcome to GitHub Pages
+
 You can use the [editor on GitHub](https://github.com/jnuqiang/itisqiang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
