@@ -30,7 +30,7 @@
 2019/07/06 | 渝派富豪 | 湖滨商业街 | 其他 | 全部门店 | 
 
 
-**Note: 排名不分先后, 仅个人观点, 不代表站点支持或认同.**
+*Note: 排名不分先后, 仅个人观点, 不代表站点支持或认同.*
 #### [苏ICP备16023973号-2](http://beian.miit.gov.cn) 
 *QIANGGE NETWORK HOLDING GROUPS ALL RIGHTS RESERVED*
 
