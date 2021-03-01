@@ -1,4 +1,4 @@
-#### 仅供参考, 如有异议请[联系我们](mailto:king@qiangeo.com)|[返回主站](https://blog.qiangeo.com)
+#### 仅供参考, 如有异议请[联系我们](mailto:king@woweric.com)|[返回主站](https://www.woweric.com)
 Updated: /today
 
 日期 | 实体名称 | 入选理由 | 位置 | 范围 | 备注
