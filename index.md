@@ -70,4 +70,5 @@ Updated: /today
 2019/07/06 | 渝派富豪 | 无 | 湖滨商业街 | 全部门店 | 
 
 Note: 排名不分先后, 仅供参考, 不代表站点支持或认同.
-QIANGGE NETWORK HOLDING GROUPS ALL RIGHTS RESERVED
+
+QIANGGE NETWORK holding groups. All rights reserved.
