@@ -74,4 +74,4 @@ Updated: @today
 
 Note: 排名不分先后, 仅供参考, 不代表站点支持或认同.
 
-QIANGGE NETWORK HOLDING GROUPS (QGHG) WUXI BRANCH 2021. All rights reserved.
+Mr Qiang Zhu all rights reserved.
